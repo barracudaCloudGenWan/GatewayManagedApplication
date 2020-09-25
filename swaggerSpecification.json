@@ -3,7 +3,7 @@
     "info": {
         "title": "Barracuda CloudGen WAN Gateway Managed Application API",
         "description": "API specification for Barracuda CloudGen WAN Gateways Managed Applications on Azure.",
-        "version": "1.0.0"
+        "version": "2020-09-23"
     },
     "basePath": "/public",
     "paths": {
