@@ -9,6 +9,7 @@
     "paths": {
         "/updateNva": {
             "post": {
+                "operationId": "postUpdateNva",
                 "summary": "Updates the scale unit of the CloudGen WAN Gateway",
                 "description": "",
                 "consumes": ["application/json"],
